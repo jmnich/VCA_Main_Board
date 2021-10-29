@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name KPJX-4S-S)(type Legacy)(uri C:/Users/JakubMnich/OneDrive/Tech/VCA/Electronics/VCA_Main_Board/vca_main_board/project_lib/KPJX-4S-S/KPJX-4S-S.lib)(options "")(descr ""))
+  (lib (name 17301xx35)(type Legacy)(uri ${KIPRJMOD}/project_lib/17301xx35/17301xx35.lib)(options "")(descr ""))
+  (lib (name STM32G474QET6)(type Legacy)(uri ${KIPRJMOD}/project_lib/STM32G474QET6/STM32G474QET6.lib)(options "")(descr ""))
+)

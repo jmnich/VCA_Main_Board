@@ -1,0 +1,40 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L MCU_ST_STM32H7:STM32H743VITx U4
+U 1 1 6177E184
+P 3550 3650
+F 0 "U4" H 3550 761 50  0000 C CNN
+F 1 "STM32H743VITx" H 3550 670 50  0000 C CNN
+F 2 "Package_QFP:LQFP-100_14x14mm_P0.5mm" H 2850 1050 50  0001 R CNN
+F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00387108.pdf" H 3550 3650 50  0001 C CNN
+	1    3550 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 617E48D4
+P 5400 2500
+AR Path="/6177F1EA/617E48D4" Ref="C?"  Part="1" 
+AR Path="/6177DC02/617E48D4" Ref="C?"  Part="1" 
+F 0 "C?" H 5492 2546 50  0000 L CNN
+F 1 "1u/10V" H 5492 2455 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" H 5400 2500 50  0001 C CNN
+F 3 "~" H 5400 2500 50  0001 C CNN
+	1    5400 2500
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

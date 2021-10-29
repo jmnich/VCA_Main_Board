@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 17301xx35
+D Integrated step-down converter - maximum input 36V / 1A / Fixed Output 3.3V, 5V, 12V or 15V
+K Integrated step-down converter
+F https://www.we-online.com/catalog/datasheet/173011235.pdf
+$ENDCMP
+#
+#End Doc Library

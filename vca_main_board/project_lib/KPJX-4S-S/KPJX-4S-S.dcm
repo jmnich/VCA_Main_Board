@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KPJX-4S-S
+D CONN JACK FMALE 4POS TIN SOLDER for Mean Well power supplies
+F http://www.kycon.com/Pub_Eng_Draw/KPJX-4S-S.pdf
+$ENDCMP
+#
+#End Doc Library
