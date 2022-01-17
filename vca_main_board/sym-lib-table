@@ -1,5 +1,9 @@
 (sym_lib_table
-  (lib (name KPJX-4S-S)(type Legacy)(uri C:/Users/JakubMnich/OneDrive/Tech/VCA/Electronics/VCA_Main_Board/vca_main_board/project_lib/KPJX-4S-S/KPJX-4S-S.lib)(options "")(descr ""))
-  (lib (name 17301xx35)(type Legacy)(uri ${KIPRJMOD}/project_lib/17301xx35/17301xx35.lib)(options "")(descr ""))
-  (lib (name STM32G474QET6)(type Legacy)(uri ${KIPRJMOD}/project_lib/STM32G474QET6/STM32G474QET6.lib)(options "")(descr ""))
+  (lib (name 17301xx35)(type Legacy)(uri ${KIPRJMOD}/lib/17301xx35/17301xx35.lib)(options "")(descr ""))
+  (lib (name KPJX-4S-S)(type Legacy)(uri ${KIPRJMOD}/lib/KPJX-4S-S/KPJX-4S-S.lib)(options "")(descr ""))
+  (lib (name LM4140ACM-2.0)(type Legacy)(uri ${KIPRJMOD}/lib/LM4140ACM-2.0.lib)(options "")(descr ""))
+  (lib (name M24256-BR)(type Legacy)(uri ${KIPRJMOD}/lib/M24256-BR.lib)(options "")(descr ""))
+  (lib (name Waveshare_LCD_1.8)(type Legacy)(uri ${KIPRJMOD}/lib/Waveshare_LCD_1.8.lib)(options "")(descr ""))
+  (lib (name ADA4522-2)(type Legacy)(uri ${KIPRJMOD}/lib/ADA4522-2.lib)(options "")(descr ""))
+  (lib (name FT232RQ)(type Legacy)(uri ${KIPRJMOD}/lib/FT232RQ.lib)(options "")(descr ""))
 )
